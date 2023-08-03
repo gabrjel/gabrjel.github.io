@@ -1,0 +1,9 @@
+# Site settings
+title: Great New Blog Title
+author:
+  name: Gabrjel
+  email: aaaa@aaaa.aaa
+description: "Don't worry"
+
+# Build settings
+remote_theme: jekyll/minima
